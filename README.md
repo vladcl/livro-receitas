@@ -2,4 +2,6 @@
 
 Olá, seja bem vindo ao meu livro de receitas! :wave:
 
-- Pizza de Calabresa
+- Pizza de Calabresa;
+- Strogonoff de frango;
+- Pavê de Bis.
